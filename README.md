@@ -1,2 +1,4 @@
 # sdu-theme-typora
-typora的sdu主题
+
+效果图：
+![1.png](1.png)
